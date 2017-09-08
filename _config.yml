@@ -44,10 +44,10 @@ permalink:    pretty
 
 
     widgets:
- - title: 关于
+ - title: About
    url: about
    archor: true
- - title: 特点
+ - title: Features
    url: features
    archor: true
  - title: Docs
