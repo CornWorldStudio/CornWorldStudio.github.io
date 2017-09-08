@@ -42,16 +42,24 @@ gems:
 markdown:     kramdown
 permalink:    pretty
 
-widgets:
-  - title: 关于
-    url: about
-    archor: true
-  - title: 特点
-    url: features
-    archor: true
-  - title: 作品
-    url: works
-    archor: true
-  - title: 联系我们
-    url: contact
-    archor: true
+
+    widgets:
+ - title: 关于
+   url: about
+   archor: true
+ - title: 特点
+   url: features
+   archor: true
+ - title: Docs
+   url: docs
+   archor: true
+ - title: License
+   url: license
+   archor: true
+ - title: Contact
+   url: contact
+   archor: true
+ - title: Blog
+   url: blog
+  - title: Page
+    url: page
