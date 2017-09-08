@@ -8,9 +8,9 @@ baseurl:             ""
 
 # About/contact
 author: # you can edit these to be your personal details
-  name:              Xiaoying Riley
-  url:               https://twitter.com/3rdwave_themes
-  email:
+  name:              CornWorld
+  url:               
+  email:             CornWorld@qq.com
 
 # Google services
 google_verification:
@@ -22,12 +22,12 @@ google_tag_manager:
 bing_verification:
 
 # Social
-github_username: thundergolfer
-twitter_username: 3rdwave_themes
-instagram_username: kevin/
-facebook: 3rdwavethemes/
-linkedin_username: xiaoying
-dribbble_username: Xiaoying
+github_username: CornWorld050324
+twitter_username: 
+instagram_username: 
+facebook: 
+linkedin_username: 
+dribbble_username: 
 
 # Custom vars
 version:             1.0.1
@@ -43,22 +43,15 @@ markdown:     kramdown
 permalink:    pretty
 
 widgets:
-  - title: About
+  - title: 关于
     url: about
     archor: true
-  - title: Features
+  - title: 特点
     url: features
     archor: true
-  - title: Docs
-    url: docs
+  - title: 作品
+    url: works
     archor: true
-  - title: License
-    url: license
-    archor: true
-  - title: Contact
+  - title: 联系我们
     url: contact
     archor: true
-  - title: Blog
-    url: blog
-  - title: Page
-    url: page
